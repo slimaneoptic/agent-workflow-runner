@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.egg-info/
+*.pid
+*.log
+.streamlit/secrets.toml
+*.key
+data/
+outputs/
